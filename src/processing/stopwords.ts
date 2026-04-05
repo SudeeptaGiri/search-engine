@@ -1,0 +1,21 @@
+// src/processing/stopwords.ts
+export const STOP_WORDS = new Set([
+  'a', 'an', 'and', 'are', 'as', 'at', 'be', 'but', 'by',
+  'for', 'if', 'in', 'into', 'is', 'it', 'its',
+  'no', 'not', 'of', 'on', 'or', 'such',
+  'that', 'the', 'their', 'then', 'there', 'these',
+  'they', 'this', 'to', 'was', 'will', 'with',
+  'a', 'about', 'above', 'after', 'again', 'against', 'all',
+  'am', 'any', 'aren', 'because', 'been', 'before', 'being',
+  'below', 'between', 'both', 'can', 'could', 'did', 'do',
+  'does', 'doing', 'down', 'during', 'each', 'few', 'from',
+  'further', 'get', 'got', 'had', 'has', 'have', 'having',
+  'he', 'her', 'here', 'hers', 'herself', 'him', 'himself',
+  'his', 'how', 'i', 'just', 'me', 'might', 'more', 'most',
+  'must', 'my', 'myself', 'now', 'only', 'other', 'our',
+  'ours', 'ourselves', 'out', 'over', 'own', 'same', 'she',
+  'should', 'so', 'some', 'still', 'than', 'them', 'themselves',
+  'through', 'too', 'under', 'until', 'up', 'very', 'we',
+  'were', 'what', 'when', 'where', 'which', 'while', 'who',
+  'whom', 'why', 'would', 'you', 'your', 'yours', 'yourself',
+]);
