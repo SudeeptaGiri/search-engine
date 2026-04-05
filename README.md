@@ -1,4 +1,3 @@
-````md
 # MiniSearch — Build a Search Engine from Scratch
 
 A simple educational search engine built with **TypeScript + Node.js**.
@@ -72,9 +71,9 @@ This project is designed as a step-by-step learning path.
 
 ## 🧠 High-level flow
 
-```text
-URL -> Crawl -> Parse -> Process Text -> Index -> Rank -> API -> UI
+
 ```
+URL -> Crawl -> Parse -> Process Text -> Index -> Rank -> API -> UI
 ````
 
 Query flow:
